@@ -1,5 +1,4 @@
-# learninglog
+# Learning Log
 
-Here is the code for my little project of making a learning log.
+This project was made with Python Crash Course. It is a web application that allows you to make a profile, create subjects and add entries to your different subjects. Made with Python and the Django Framework. It is hosted and viewable on littlelearninglog.herokuapp.com.
 
-It has all of the files I have used throughout the production. I will update this as I make changes also.
